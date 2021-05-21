@@ -6,6 +6,6 @@ It was my fisrt project with HTML and CSS just to create a simple page with an a
 
 ## Sources
 * MDN 
-* w3School
+* w3Schools
 * Udacity challenger track
 
